@@ -10,7 +10,7 @@ Make sure you have Python installed on your system. If not, you can download and
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/yourusername/topic-folder-creator.git
+git clone (https://github.com/PARASMANI-KHUNTE/Folder-Generator.git)
 Navigate to the Directory:
 bash
 Copy code
